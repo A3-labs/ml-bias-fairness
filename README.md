@@ -6,3 +6,5 @@ In addition, all demographics are not always equally represented in the data.  T
 
 In this work, we explore different steps involved in manipulating data and choosing the right algorithm to create unbiased Machine Learning applications. The work was intended and is highly applicable in developing countries where there are not enough resources for data collection, and most of the time the demographics representing the target users are not well represented in the training data.
 
+Link to original repo: [https://github.com/heyaudace/ml-bias-fairness](https://github.com/heyaudace/ml-bias-fairness)
+
